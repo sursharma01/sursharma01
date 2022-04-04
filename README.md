@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sursharma01
 - 👀 I’m interested in Developing, Machine Learning, and Deep Learning
-- 🌱 I’m currently working on Automation Testing
-- 💞️ I’m looking to collaborate on Automation Testing and Machine Learning stuff
+- 🌱 I’m have worked on Automation Testing i.e API Testing, UI testing, and Infra testing
+- Currently, I'm working as a developer
+- 💞️ I’m looking to collaborate on backebd development, Automation Testing and Machine Learning stuff
 - 📫 How to reach me? ping here.
 - I am also working on algorithms' learning to be better at it by daily practise.
 
